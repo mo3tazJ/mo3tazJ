@@ -15,6 +15,7 @@ Highly experienced IT professional with over 20 years of expertise in IT support
 
 #### Programming Languages
 - Python
+- R
 - SQL
 - HTML/CSS
 - JavaScript
@@ -23,6 +24,7 @@ Highly experienced IT professional with over 20 years of expertise in IT support
 
 #### Frameworks & Tools
 - Django
+- R Studio
 - Flutter
 - Git
 - Odoo Development
