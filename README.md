@@ -1,6 +1,6 @@
 # ENG. Moutaz Jnoub
 
-## 👨‍💻 IT Specialist & Software Developer
+## 👨‍💻 IT Specialist | Software Developer | Data Science Learner
 
 Highly experienced IT professional with over 20 years of expertise in IT support, systems administration, and software development. Currently pursuing a Master's degree in Computer Science with excellence.
 
@@ -48,10 +48,14 @@ Highly experienced IT professional with over 20 years of expertise in IT support
 
 ### 📜 Certifications
 
-- Google IT Support (Google and Coursera, 2023)
+- Google IT Support Specialization (Google and Coursera, 2023)
 - Odoo Developer (EB Tech, 2024)
 - Intro to Machine Learning (Kaggle, 2024)
+- Introduction to Data Analytics (IBM and Coursera, 2024)
 - Python for Data Analysis: Pandas & NumPy (Coursera, 2024)
+- R Programming (The Johns Hopkins University and Coursera, 2025)
+- The Data Scientist’s Toolbox (The Johns Hopkins University and Coursera, 2025)
+- Getting and Cleaning Data (The Johns Hopkins University and Coursera, 2025)
 - Getting started with Flutter Development (Coursera, 2024)
 - Design smart home networks using Packet Tracer (Coursera, 2023)
 
