@@ -53,6 +53,7 @@ Highly experienced IT professional with over 20 years of expertise in IT support
 - Intro to Machine Learning (Kaggle, 2024)
 - Introduction to Data Analytics (IBM and Coursera, 2025)
 - Excel Basics for Data Analysis (IBM and Coursera, 2025)
+- Business Analytics with Excel: Elementary to Advanced (The Johns Hopkins University and Coursera, 2025)
 - Python for Data Analysis: Pandas & NumPy (Coursera, 2024)
 - R Programming (The Johns Hopkins University and Coursera, 2025)
 - The Data Scientist’s Toolbox (The Johns Hopkins University and Coursera, 2025)
