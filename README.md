@@ -2,7 +2,7 @@
 
 ## 👨‍💻 IT Specialist | Software Developer | Data Science & AI Enthusiast
 
-Highly experienced IT professional with over 20 years of expertise in IT support, systems administration, and software development.
+Highly experienced IT professional with over 20 years of expertise in IT support, systems administration, and software development.  
 Master's in Computer Science Graduate, ranked 2nd in cohort (90.4%).
 
 ### 🔍 About Me
