@@ -1,8 +1,9 @@
 # ENG. Moutaz Jnoub
 
-## 👨‍💻 IT Specialist | Software Developer | Data Science Learner
+## 👨‍💻 IT Specialist | Software Developer | Data Science & AI Enthusiast
 
-Highly experienced IT professional with over 20 years of expertise in IT support, systems administration, and software development. Currently pursuing a Master's degree in Computer Science with excellence.
+Highly experienced IT professional with over 20 years of expertise in IT support, systems administration, and software development.
+Master's in Computer Science Graduate, ranked 2nd in cohort (90.4%).
 
 ### 🔍 About Me
 
@@ -66,7 +67,7 @@ Highly experienced IT professional with over 20 years of expertise in IT support
 
 - Arabic (Native)
 - English (Advanced Professional Working Proficiency)
-- German: Elementary proficiency.
+- German: (Elementary proficiency)
 
 ### 📫 Connect With Me
 
@@ -75,4 +76,4 @@ Highly experienced IT professional with over 20 years of expertise in IT support
 
 ### 🌱 Current Focus
 
-Currently expanding my knowledge in data science and machine learning while completing my Master's degree in Computer Science.
+Currently expanding my knowledge in data science and machine learning.
