@@ -25,6 +25,7 @@ Master's in Computer Science Graduate, ranked 2nd in cohort (90.4%).
 
 #### Frameworks & Tools
 - Django
+- Flask
 - R Studio
 - Flutter
 - Git
