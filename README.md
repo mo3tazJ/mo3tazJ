@@ -8,9 +8,9 @@ Master's in Computer Science Graduate, ranked 2nd in cohort (90.4%).
 ### 🔍 About Me
 
 - 🖥️ IT Specialist at Technical Service Directorate (2010 - Present)
-- 🏪 Former Manager at Connect IT – Tartus (2005 - 2022)
+- 🏪 Founder/Co-Manager at Connect IT – Tartus (2005 - 2022)
 - 🎓 Master's in Computer Science (MCS) - Syrian Virtual University (2025)
-- 🎓 Bachelor of Science in Mechanical Engineering - Tishreen University
+- 🎓 Bachelor of Science in Mechanical & Electrical Engineering - Tishreen University
 
 ### 💻 Technical Skills
 
