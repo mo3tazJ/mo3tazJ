@@ -20,6 +20,7 @@ Master's in Computer Science Graduate, ranked 2nd in cohort (90.4%).
 - SQL
 - HTML/CSS
 - JavaScript
+- PHP
 - Dart
 - Shell Scripting
 
